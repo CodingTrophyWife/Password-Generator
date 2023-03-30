@@ -2,6 +2,8 @@
 
 ## Link to my password generator
 
+https://codingtrophywife.github.io/Password-Generator/
+
 # Discription
 
 This is my third challenge for school where the task was to create a password generator. The user is prompted with questions like "how many characters do you want", "do you want any special charaters", "do you want numbers", "do you want uppercase", "do you want lowercase".
